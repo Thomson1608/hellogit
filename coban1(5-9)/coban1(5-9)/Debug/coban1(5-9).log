@@ -1,0 +1,20 @@
+﻿Build started 5/9/2015 3:44:11 PM.
+     1>Project "C:\Users\MinhTan_PC\Desktop\MFC\coban1(5-9)\coban1(5-9)\coban1(5-9).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\coban1(5-9).pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "coban1(5-9).cpp" "coban1(5-9)Dlg.cpp"
+         coban1(5-9)Dlg.cpp
+         Generating Code...
+         Compiling...
+         coban1(5-9).cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MinhTan_PC\Desktop\MFC\coban1(5-9)\Debug\coban1(5-9).exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\MinhTan_PC\Desktop\MFC\coban1(5-9)\Debug\coban1(5-9).pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MinhTan_PC\Desktop\MFC\coban1(5-9)\Debug\coban1(5-9).lib" /MACHINE:X86 "Debug\coban1(5-9).res"
+         "Debug\coban1(5-9).obj"
+         "Debug\coban1(5-9)Dlg.obj"
+         Debug\stdafx.obj
+         coban1(5-9).vcxproj -> C:\Users\MinhTan_PC\Desktop\MFC\coban1(5-9)\Debug\coban1(5-9).exe
+     1>Done Building Project "C:\Users\MinhTan_PC\Desktop\MFC\coban1(5-9)\coban1(5-9)\coban1(5-9).vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.92
